@@ -38,21 +38,19 @@
         <div class="executive-summary" itemprop="description">
           {{ site.resume_header_intro }}
         </div>
-        
+
         <div class="header-buttons">
-        {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
-        {% elsif site.resume_looking_for_work == 'no' %}
-        <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
-        {% else %}
-        {% endif %}
-        
-        <a href="http://abhishekp106.github.io/leonids/" class="contact-button no-print">Blog</a>
+          {% if site.resume_looking_for_work == 'yes' %}
+          <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
+          {% elsif site.resume_looking_for_work == 'no' %}
+          <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
+          {% else %}
+          {% endif %}
+
+          <a href="https://abhishekp106.github.io/leonids/" class="contact-button no-print">Blog</a>
         </div>
 
       </header>
-
-   
 
 
       {% if site.resume_section_education %}
@@ -81,8 +79,9 @@
       </section>
       <!-- end Education -->
       {% endif %}
-    
-    {% if site.resume_section_experience %}
+
+
+      {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
 
@@ -238,9 +237,8 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Abhishek Pandya, Penn Class of 2023</p>
-        <p class="footer-line">Please do read about the best way to <a href='https://80000hours.org/key-ideas/'>help humanity</a>.</p>
-        <p class="footer-line">Template by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
+        <p class="footer-line">Abhishek Pandya Penn Class of 2023</p>
+        <p class="footer-line">Made with <a href="http://twitter.com/jglovier">@jglovier</a>'s template. Fork it on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
       </footer>
 
     </div>
