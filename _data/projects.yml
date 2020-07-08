@@ -15,3 +15,10 @@
   url: "https://github.com/abhishekp106/DeepRL"
   description: "I implemented a Vanilla Policy Gradient Algorithm, using an average reward as baseline and reward-to-go."
   
+# NJCO Website Design
+- project: Website on Harmful Microplastics
+  role: Co-Developer
+  duration: May 2019
+  url: "https://shivenk78.github.io/WebDesign-SBHS-TeamB/"
+  description: "Website about the harmful environmental effects of microplastics. Won 1st place in NJ Chemistry Olympiad for Website Design."
+  
