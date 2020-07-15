@@ -3,24 +3,28 @@
 
 # DQN
 - project: Deep Q-Learning (DQN)
+  role: Sole Developer
   duration: June 2020
   url: "https://github.com/abhishekp106/DeepRL"
   description: "I implemented the Deep Reinforcement Learning Algorithm DQN, described in the Deepmind Paper <a href='https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf'>here</a> in PyTorch. It works on toy environments (CartPole), and I am working on adapting this to Atari games."
 
 # VPG
 - project: Vanilla Policy Gradient (VPG)
+  role: Sole Developer
   duration: June 2020
   url: "https://github.com/abhishekp106/DeepRL"
   description: "I implemented a Vanilla Policy Gradient Algorithm, using an average reward as baseline and reward-to-go."
   
 # Analysis of Kaggle US Accidents Dataset
 - project: Analysis of Kaggle US Accidents Dataset
+  role: Sole Developer
   duration: April-May 2020
   url: "https://github.com/abhishekp106/DataScienceProjects/blob/master/CIS545FinalProject.ipynb"
   description: "Here, I've analyzed the US Accidents dataset from Kaggle. I studied where and when accidents happen, and how to characterize the accidents on a large set of criteria, including location, time, and other factors. I attempt to predict the duration of the accident, given a variety of factors, including the severity, the location, precipitation, and others."
 
 # WAF Project
 - project: YouTube Recommendation Algorithm
+  role: Sole Developer
   duration: January 2020 
   url: "https://github.com/abhishekp106/DataScienceProjects/blob/master/WAFChallenge.ipynb"
   description: "I wrote a recommendation algorithm for a dataset of YouTube videos using K-Means and TF-IDF techniques."
