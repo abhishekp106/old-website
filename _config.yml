@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/abhishekanujpandya"
   resume_instagram_url:         "https://www.instagram.com/abhishekp106/"
-  resume_website_url:           "https://abhishekp106.github.io/resume_latex.pdf"
+  resume_pdf_url:           "https://abhishekp106.github.io/resume_latex.pdf"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
