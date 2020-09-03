@@ -23,7 +23,7 @@ resume_contact_address:         "Philadelphia, PA"
 resume_header_contact_info:     "Philadelphia, PA • abpandya@seas.upenn.edu"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hi! I am a student at the University of Pennsylvania, majoring in Computer Science. I love teaching math and spreading the word about <a href='https://80000hours.org/key-ideas/' target='_blank'>effective</a> <a href='https://www.1fortheworld.org/' target='_blank'>altruism</a>. I am interested in AI Safety and Deep Learning. Avid hiker (Yosemite, Shenandoah, Great Smoky, Acadia, Banff-Canada, Dolomites-Italy). Looking for SWE internships and research positions. </p>"
+resume_header_intro: "<p>Hi! I am a student at the University of Pennsylvania, majoring in Computer Science. I love teaching math and spreading the word about <a href='https://80000hours.org/key-ideas/' target='_blank'>effective</a> <a href='https://www.1fortheworld.org/' target='_blank'>altruism</a>. I am interested in AI Safety and Deep Learning. Looking for SWE internships and research positions. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
