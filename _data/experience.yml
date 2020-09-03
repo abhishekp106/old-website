@@ -3,7 +3,7 @@
 - company: Keep.id
   position: Backend Software Engineer
   duration: July 2020 &mdash; September 2020
-  summary: "Helped develop the backend for <a href='https://keep.id/home'>Keep.id</a>, a secure document storage platform for identification used to assist the homeless in government aid, jobs, and homelessness services."
+  summary: "Helped develop the backend for <a href='https://keep.id/home'>Keep.id</a>, a secure document storage platform for identification used to assist the homeless in government aid, jobs, and homelessness services. Worked on PDF upload, PDF annotation, and encryption. Achieved HIPAA Compliance for encryption of personal information."
 
 # TA
 - company: University of Pennsylvania, CIS Department
